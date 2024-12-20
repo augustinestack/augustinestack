@@ -2,7 +2,7 @@
 
 [![Instagram Follow](https://img.shields.io/badge/Connect%20With%20Me%20On%20Instagram-%23E4405F?style=social&logo=instagram)](https://www.instagram.com/augustinestack)
 
-Determined to succeed ✖
+Determined to succeed ✓
 Succeeded ✓
 
 <h3 align="left">Tech Stack:</h3>
