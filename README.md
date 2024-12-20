@@ -1,6 +1,6 @@
 ## augustine.
 
-![Twitter Follow](https://img.shields.io/twitter/follow/augustinestack?label=Connect%20With%20Me%20On%20Twitter&style=social)
+[![Instagram Follow](https://img.shields.io/badge/Connect%20With%20Me%20On%20Instagram-%23E4405F?style=social&logo=instagram)](https://www.instagram.com/augustinestack)
 
 Determined to succeed ✖
 Succeeded ✓
